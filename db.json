@@ -1,0 +1,18 @@
+{
+  "users": [{
+    "id": "u-001",
+    "fname": "Trung",
+    "lname": "Le Hai",
+    "active": true
+  }, {
+    "id": "u-002",
+    "fname": "Alex",
+    "lname": "Sander",
+    "active": false
+  }, {
+    "id": "u-003",
+    "fname": "Doe",
+    "lname": "John",
+    "active": false
+  }]  
+}
