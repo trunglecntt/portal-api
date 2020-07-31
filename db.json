@@ -125,31 +125,6 @@
       "fname": "Trung",
       "lname": "Le Hai",
       "active": true
-    }, {
-      "id": "u-026",
-      "fname": "Alex",
-      "lname": "Sander",
-      "active": false
-    }, {
-      "id": "u-027",
-      "fname": "Doe",
-      "lname": "John",
-      "active": false
-    }, {
-      "id": "u-028",
-      "fname": "Trung",
-      "lname": "Le Hai",
-      "active": true
-    }, {
-      "id": "u-029",
-      "fname": "Alex",
-      "lname": "Sander",
-      "active": false
-    }, {
-      "id": "u-030",
-      "fname": "Doe",
-      "lname": "John",
-      "active": false
     }
   ]  
 }
