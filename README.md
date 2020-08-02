@@ -19,6 +19,10 @@
 ##### Build & Deploy
 - Run server: `grunt dev`
 - Run parallel with API: `grunt mock`
-- Build: `nuxt build && nuxt export`
+- Build: 
+  ```
+  nuxt build
+  nuxt export
+  ```
 ---
 Happy coding :beer:
