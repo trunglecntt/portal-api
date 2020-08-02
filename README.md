@@ -1,11 +1,11 @@
-## Portal demo using Nuxt.js + OAuth2
+### Portal demo using Nuxt.js + OAuth2
 
-### Source code
+##### Repository
 
-- Clone source at:
+- Clone at:
 `https://bitbucket.org/trunglecntt/portal-demo/src/master/`
 
-### Dependencies
+##### Dependencies
 
 - Global package:
 ```
@@ -16,10 +16,10 @@ npm install -g grunt-cli
 ```
 npm install
 ```
-### Build & Deploy
+##### Build & Deploy
 - Run server: `grunt dev`
 - Run parallel with API: `grunt mock`
 - Build: `nuxt build && nuxt export`
-- Deploy: Copy all items in `./dist` to server or S3 bucket
+- Deploy: `Copy all items in: ./dist to server or S3 bucket`
 ---
 Happy coding :beer:
