@@ -1,6 +1,6 @@
 ### Portal demo using Nuxt.js + OAuth2
 
-##### Repository
+##### Source code
 
 - Clone at:
   `https://bitbucket.org/trunglecntt/portal-demo/src/master/`
@@ -12,7 +12,7 @@
   npm install -g nuxt
   npm install -g grunt-cli
   ```
-- Project dependencies
+- Project dependencies:
   ```
   npm install
   ```
