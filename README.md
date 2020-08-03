@@ -7,7 +7,7 @@
 
 ##### Dependencies
 
-- Global package:
+- Global packages:
   ```
   npm install -g nuxt
   npm install -g grunt-cli
@@ -19,6 +19,6 @@
 ##### Build & Deploy
 - Run server: `grunt dev`
 - Run parallel with API: `grunt mock`
-- Build: `nuxt build && nuxt export`
+- Build: `nuxt generate`
 
 Happy coding :beer:
