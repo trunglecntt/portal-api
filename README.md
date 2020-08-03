@@ -1,4 +1,4 @@
-### Portal demo using Nuxt.js + OAuth2
+### LB-Portal Demo
 
 ##### Source code
 
