@@ -3,7 +3,7 @@
 ##### Source code
 
 - Clone at:
-  `https://bitbucket.org/trunglecntt/portal-demo/src/master/`
+  [Repository](https://bitbucket.org/trunglecntt/portal-demo/src/master/)
 
 ##### Dependencies
 
